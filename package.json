@@ -1,0 +1,121 @@
+{
+<<<<<<< HEAD
+  "name": "vue-manage-system",
+  "version": "4.2.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run serve",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "axios": "^0.18.0",
+    "babel-polyfill": "^6.26.0",
+    "element-ui": "^2.11.0",
+    "mavon-editor": "^2.6.17",
+    "swiper": "^7.2.0",
+    "view-design": "^4.7.0",
+    "vue": "^2.6.10",
+    "vue-cropperjs": "^3.0.0",
+    "vue-i18n": "^8.10.0",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "^3.0.3",
+    "vue-schart": "^2.0.0",
+    "vuedraggable": "^2.17.0",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.9.0",
+    "@vue/cli-service": "^3.9.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+=======
+  "name": "vue_cq",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --port 3006",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "axios": "^0.21.1",
+    "better-scroll": "^2.4.2",
+    "components": "^0.1.0",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.15.5",
+    "less-loader": "^5.0.0",
+    "nanoid": "^3.1.23",
+    "node-sass": "^4.14.1",
+    "pubsub-js": "^1.9.3",
+    "s": "^1.0.0",
+    "v-region": "^2.2.2",
+    "view-design": "^4.6.1",
+    "vue": "^2.6.11",
+    "vue-concise-slider": "^4.2.5",
+    "vue-resource": "^1.5.3",
+    "vue-router": "^3.5.2",
+    "vue-skeleton-webpack-plugin": "^1.2.2",
+    "vue-video-player": "^5.0.2",
+    "vuex": "^3.6.2",
+    "vuex-persistedstate": "^4.1.0",
+    "xgplayer-mp4": "^2.0.0",
+    "xgplayer-vue": "^1.1.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.29.3",
+    "@typescript-eslint/parser": "^4.29.3",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "babel-plugin-component": "^1.1.1",
+    "babel-plugin-import": "^1.13.3",
+    "eslint": "^6.8.0",
+    "eslint-plugin-vue": "^7.16.0",
+    "html-webpack-plugin": "^5.3.2",
+    "less": "^3.9.0",
+    "page-skeleton-webpack-plugin": "^0.10.12",
+    "sass-loader": "^8.0.2",
+    "swiper": "^5.4.5",
+    "vue-awesome-swiper": "^3.1.3",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {
+      "no-": "off",
+      "no-debugger": "off",
+      "no-console": "off",
+      "no-empty": "off",
+      "no-unused-vars": "off"
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "https://oauth2:erNZyKKt4bzAWK6_nFXp@codechina.csdn.net/m0_47925395/vue_cq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+>>>>>>> 6901f85 (first)
+}
